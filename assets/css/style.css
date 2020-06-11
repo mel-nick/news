@@ -206,7 +206,8 @@ a:hover {
     right: 100%;
     padding-left: 15px;
     padding-right: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     width: 100%;
     transition: all 0.3s ease;
     display: block;
